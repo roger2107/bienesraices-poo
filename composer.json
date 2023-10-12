@@ -1,0 +1,20 @@
+{
+    "name": "roger/bienesraices-poo",
+    "description": "Proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "roger2107",
+            "email": "rogero.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+        
+    }
+}
